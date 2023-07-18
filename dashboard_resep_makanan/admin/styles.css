@@ -1,0 +1,90 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #000;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid #ccc;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  th {
+    background-color: #f9f9f9;
+    color: #000;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: #f00;
+  }
+  
+  img {
+    width: 75px;
+    border: 1px solid #ccc;
+  }
+  
+  /* Customizations */
+  
+  .table-striped > tbody > tr:nth-of-type(odd) {
+    background-color: #f9f9f9;
+  }
+  
+  .table-hover > tbody > tr:hover {
+    background-color: #ddd;
+  }
+  
+  .table-bordered {
+    border: 1px solid #ccc;
+  }
+  
+  .table-bordered > thead > tr > th,
+  .table-bordered > tbody > tr > th,
+  .table-bordered > tfoot > tr > th,
+  .table-bordered > thead > tr > td,
+  .table-bordered > tbody > tr > td,
+  .table-bordered > tfoot > tr > td {
+    border: 1px solid #ccc;
+  }
+  
+  .table-condensed > thead > tr > th,
+  .table-condensed > tbody > tr > th,
+  .table-condensed > tfoot > tr > th,
+  .table-condensed > thead > tr > td,
+  .table-condensed > tbody > tr > td,
+  .table-condensed > tfoot > tr > td {
+    padding: 5px;
+  }
+  
+  .table-hover > tbody > tr:hover > td,
+  .table-hover > tbody > tr:hover > th {
+    background-color: #f0f0f0;
+  }
+  
+  .table-responsive {
+    overflow-x: auto;
+  }
+  
+  .table-responsive > table {
+    margin-bottom: 0;
+  }
+  
