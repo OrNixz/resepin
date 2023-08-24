@@ -1,7 +1,7 @@
 
 # Resepin
 
-Resepin is the name of an amazing, user-friendly website and dashboard that was created by two students who wanted to showcase their skills and passion for the subject of Web Programming 1. Both the site and Dashboard were built using web technologies including HTML, CSS, Bootstrap, JavaScript, PHP and MySQL to ensure the site is easy to navigate, responsive and secure. 
+Resepin is the name of an amazing, user-friendly website and dashboard that was created by two students (named Afif and Azriel) who wanted to showcase their skills and passion for the subject of Web Programming 1. Both the site and Dashboard were built using web technologies including HTML, CSS, Bootstrap, JavaScript, PHP and MySQL to ensure the site is easy to navigate, responsive and secure. 
 
 The main purpose of this website is to offer a wide variety of food recipes from different countries and cultures, with complete information on ingredients, cooking steps. The site also features cool images of the dishes, as well as ratings of other users who have tried them. In addition, there is also information about Resepin, what its vision and mission is, and what benefits it has provided.
 
