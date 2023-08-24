@@ -15,14 +15,16 @@ The dashboard enables users to perform CRUD operations, which means they would b
 
 ## Screenshots
 
-1. Website
+**1. Website**
    
 - Home
+  
   ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Home%201%20Website.png?raw=true)
   
   ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Home%202%20Website.png?raw=true)
   
 - Recipes
+  
   ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Recipes%201%20Website.png?raw=true)
   
   ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Recipes%202%20Website.png?raw=true)
@@ -32,23 +34,39 @@ The dashboard enables users to perform CRUD operations, which means they would b
   ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Recipes%204%20Website.png?raw=true)
   
 - Contact
+  
   ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Contact%201%20Website.png?raw=true)
   
 - About Us
+  
   ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/About%20Us%201%20Website.png?raw=true)
   
   ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/About%20Us%202%20Website.png?raw=true)
   
-2. Dashboard
+**2. Dashboard**
 
 - Login
-  ![alt text](?raw=true)
+  
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Login.png?raw=true)
+  
 - Register
-  ![alt text](?raw=true)
+  
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Register.png?raw=true)
+  
 - Dashboard
-  ![alt text](?raw=true)
+  
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Dashboard.png?raw=true)
+  
 - CRUD (Create, Read, Update, Delete)
-  ![alt text](?raw=true)
+  
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Read%20Food%20Recipes.png?raw=true)
+  
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Add%20Food%20Recipe.png?raw=true)
+  
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Edit%20Food%20Recipe.png?raw=true)
+  
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Delete%20Food%20Recipe.png?raw=true)
+
 ## Tech Stack
 
 1. HTML
