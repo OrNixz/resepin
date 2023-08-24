@@ -7,14 +7,35 @@ The main purpose of this website is to offer a wide variety of food recipes from
 
 The dashboard enables users to perform CRUD operations, which means they would be able to create, read, update and delete any food information they wish. Users can also register and log in to access data on the site as there are login and register features, and the session feature in PHP prevents unauthorised users from accessing certain areas of the site. On the dashboard there is also a search feature that makes it easy to be able to search for recipes based on the name of the food.
 
-
 ## Database Relationships
 ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Database%20Design.png?raw=true)
 
 ## Flowchart
+![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Flowchart.png)?raw=true)
 
-Here's the link to see the flowchart of Resepin:
-https://drive.google.com/file/d/1671RYNA5leDSA6ECYlk31AmVEb87-iuF/view
+## Screenshots
+
+1. Website
+   
+- Home
+  ![alt text]([https://github.com/OrNixz/resepin/blob/main/Images/Home%201%20Website.png?raw=true)
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Home%202%20Website.png)?raw=true)
+  
+- Recipes
+  ![alt text]([https://github.com/OrNixz/resepin/blob/main/Images/Database%20Design.png](https://github.com/OrNixz/resepin/blob/main/Images/Flowchart.png)?raw=true)
+  ![alt text]([https://github.com/OrNixz/resepin/blob/main/Images/Database%20Design.png](https://github.com/OrNixz/resepin/blob/main/Images/Flowchart.png)?raw=true)
+  
+- Contact
+  ![alt text]([https://github.com/OrNixz/resepin/blob/main/Images/Database%20Design.png](https://github.com/OrNixz/resepin/blob/main/Images/Flowchart.png)?raw=true)
+  ![alt text]([https://github.com/OrNixz/resepin/blob/main/Images/Database%20Design.png](https://github.com/OrNixz/resepin/blob/main/Images/Flowchart.png)?raw=true)
+  
+- About Us
+  ![alt text]([https://github.com/OrNixz/resepin/blob/main/Images/Database%20Design.png](https://github.com/OrNixz/resepin/blob/main/Images/Flowchart.png)?raw=true)
+  ![alt text]([https://github.com/OrNixz/resepin/blob/main/Images/Database%20Design.png](https://github.com/OrNixz/resepin/blob/main/Images/Flowchart.png)?raw=true)
+  
+2. Dashboard
+
+
 ## Tech Stack
 
 1. HTML
@@ -23,6 +44,7 @@ https://drive.google.com/file/d/1671RYNA5leDSA6ECYlk31AmVEb87-iuF/view
 4. PHP
 5. Bootstrap
 6. MySQL
+   
 ## Getting Started
 
 1. Clone this repository or download it. Then extract it and place it wherever you want.
