@@ -11,31 +11,39 @@ The dashboard enables users to perform CRUD operations, which means they would b
 ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Database%20Design.png?raw=true)
 
 ## Flowchart
-![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Flowchart.png)?raw=true)
+![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Flowchart.png?raw=true)
 
 ## Screenshots
 
 1. Website
    
 - Home
-  ![alt text]([https://github.com/OrNixz/resepin/blob/main/Images/Home%201%20Website.png?raw=true)
-  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Home%202%20Website.png)?raw=true)
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Home%201%20Website.png?raw=true)
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Home%202%20Website.png?raw=true)
   
 - Recipes
-  ![alt text]([https://github.com/OrNixz/resepin/blob/main/Images/Database%20Design.png](https://github.com/OrNixz/resepin/blob/main/Images/Flowchart.png)?raw=true)
-  ![alt text]([https://github.com/OrNixz/resepin/blob/main/Images/Database%20Design.png](https://github.com/OrNixz/resepin/blob/main/Images/Flowchart.png)?raw=true)
+  ![alt text](?https://github.com/OrNixz/resepin/blob/main/Images/Recipes%201%20Website.pngraw=true)
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Recipes%202%20Website.pngraw=true)?raw=true)
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Recipes%203%20Website.pngraw=true)?raw=true)
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Recipes%204%20Website.pngraw=true)?raw=true)
   
 - Contact
-  ![alt text]([https://github.com/OrNixz/resepin/blob/main/Images/Database%20Design.png](https://github.com/OrNixz/resepin/blob/main/Images/Flowchart.png)?raw=true)
-  ![alt text]([https://github.com/OrNixz/resepin/blob/main/Images/Database%20Design.png](https://github.com/OrNixz/resepin/blob/main/Images/Flowchart.png)?raw=true)
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Contact%201%20Website.png?raw=true)
   
 - About Us
-  ![alt text]([https://github.com/OrNixz/resepin/blob/main/Images/Database%20Design.png](https://github.com/OrNixz/resepin/blob/main/Images/Flowchart.png)?raw=true)
-  ![alt text]([https://github.com/OrNixz/resepin/blob/main/Images/Database%20Design.png](https://github.com/OrNixz/resepin/blob/main/Images/Flowchart.png)?raw=true)
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/About%20Us%201%20Website.png?raw=true)
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/About%20Us%202%20Website.png?raw=true)
   
 2. Dashboard
 
-
+- Login
+  ![alt text](?raw=true)
+- Register
+  ![alt text](?raw=true)
+- Dashboard
+  ![alt text](?raw=true)
+- CRUD (Create, Read, Update, Delete)
+  ![alt text](?raw=true)
 ## Tech Stack
 
 1. HTML
