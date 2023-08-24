@@ -19,19 +19,24 @@ The dashboard enables users to perform CRUD operations, which means they would b
    
 - Home
   ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Home%201%20Website.png?raw=true)
+  
   ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Home%202%20Website.png?raw=true)
   
 - Recipes
-  ![alt text](?https://github.com/OrNixz/resepin/blob/main/Images/Recipes%201%20Website.pngraw=true)
-  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Recipes%202%20Website.pngraw=true)?raw=true)
-  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Recipes%203%20Website.pngraw=true)?raw=true)
-  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Recipes%204%20Website.pngraw=true)?raw=true)
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Recipes%201%20Website.png?raw=true)
+  
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Recipes%202%20Website.png?raw=true)
+  
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Recipes%203%20Website.png?raw=true)
+  
+  ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Recipes%204%20Website.png?raw=true)
   
 - Contact
   ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/Contact%201%20Website.png?raw=true)
   
 - About Us
   ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/About%20Us%201%20Website.png?raw=true)
+  
   ![alt text](https://github.com/OrNixz/resepin/blob/main/Images/About%20Us%202%20Website.png?raw=true)
   
 2. Dashboard
